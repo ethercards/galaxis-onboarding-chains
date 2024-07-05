@@ -1,0 +1,21 @@
+{
+  "name": "galaxis-onboarding-chains",
+  "version": "1.0.0",
+  "description": "Onboard configuration for chains",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "5.7"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3",
+    "@types/node": "^20.14.9"
+  }
+}
